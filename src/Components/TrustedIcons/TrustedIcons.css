@@ -1,0 +1,23 @@
+/* All trusted icons styles */
+.trusted-icons {
+    padding: 2rem;
+    margin: 1rem;
+}
+
+.trusted-icons .wrapper {
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.trusted-icons .img-box {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 1rem 0rem;
+}
+
+.trusted-icons .img-box img {
+    width: 50%;
+}

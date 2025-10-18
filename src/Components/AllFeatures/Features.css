@@ -1,0 +1,46 @@
+.features {
+    padding: 1.5rem;
+    width: 100%;
+    margin: 1rem 0rem;
+}
+
+
+.features .wrapper {
+    border-top: 0.1rem solid gray;
+    border-bottom: 0.1rem solid gray;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 1.5rem;
+}
+
+.features .text-box {
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.features .text-box h2 {
+    font-size: 3rem;
+    margin: 1rem 0rem;
+}
+
+.features .text-box p {
+    font-size: 1rem;
+    margin: 1.5rem 0rem;
+}
+
+.features .list-box li {
+    margin: 2rem 0rem;
+}
+
+
+.features .img-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.features .img-box img {
+    border-radius: 3rem;
+}

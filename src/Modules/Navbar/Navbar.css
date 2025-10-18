@@ -1,0 +1,25 @@
+/* Navbar Styles */
+.navbar-brand {
+    font-weight: 600 !important;
+}
+
+.nav-item {
+    font-size: 0.8rem;
+    font-weight: 600;
+    margin: 0rem 0.5rem;
+    color: #000;
+}
+
+.nav-btn {
+    border: none;
+    padding: 0.5rem 1.5rem;
+    border-radius: 1.5rem;
+    font-size: 0.9rem;
+    background-color: var(--green);
+    color: #fff;
+    font-weight: 500;
+}
+
+.navbar-nav {
+    position: sticky;
+}

@@ -1,0 +1,27 @@
+/* All Area Styles */
+.area {
+    padding: 1rem;
+    margin: 1rem 0rem;
+}
+
+.area .wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 3rem;
+    margin: 2rem 0rem;
+}
+
+.area h2 {
+    font-size: 3rem;
+    margin: 1rem 0rem;
+}
+
+.area p {
+    font-size: .9rem;
+    margin: .5rem 0rem;
+}
+.area button{
+    margin: 1rem 0rem;
+}

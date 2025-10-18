@@ -1,0 +1,42 @@
+.steps {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 1rem;
+    margin: 1rem 0rem;
+}
+
+.steps .title-box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 4rem 0rem;
+}
+
+.steps .title-box h2 {
+    font-size: 3rem;
+}
+
+.steps .wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.step-box h3 {
+    color: #929292;
+    font-size: 5rem;
+    margin: 3rem 0rem;
+}
+
+.step-box h5 {
+    margin: 1rem 0rem;
+}
+
+.step-box span {
+    margin: 1rem 0rem;
+    font-size: .9rem;
+    padding: .4rem;
+}

@@ -1,0 +1,41 @@
+/* Start Benefits styles */
+.benefits {
+    width: 100%;
+    padding: 1.5rem;
+}
+
+.benefits .title-box {
+    padding: 2.5rem;
+    margin: 1rem 0rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.benefits .wrapper {
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.benefits .benefit-box,
+.benefits .benefit-box .icon {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 1.5rem;
+}
+
+.benefits .benefit-box h3 {
+    text-align: center;
+}
+
+.benefits .benefit-box p {
+    text-align: center;
+    font-size: 0.8rem;
+    margin: .5rem 0rem;
+}

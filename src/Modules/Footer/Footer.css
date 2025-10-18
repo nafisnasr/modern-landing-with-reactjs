@@ -1,0 +1,32 @@
+/* All Footer styles */
+.footer {
+    width: 100%;
+    border-top: .1rem solid gray;
+    margin-top: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 15vh;
+}
+
+.footer .wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+}
+
+.footer .list {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 30%;
+}
+.footer .list a{
+    color: #000;
+    font-size: 0.8rem;
+}
+.footer .copyright-box span{
+    font-size: 0.8rem;
+    color: gray;
+}

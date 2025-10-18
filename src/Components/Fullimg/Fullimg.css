@@ -1,0 +1,16 @@
+/* All Fullimg styles */
+.full-img-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.full-img-box .full-img-container {
+    width: 80%;
+    height: 70vh;
+}
+
+.full-img-box .full-img-container img {
+    border-radius: 1.5rem;
+    height: 100%;
+}
